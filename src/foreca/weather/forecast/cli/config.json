@@ -1,0 +1,117 @@
+{
+    "Prague": {
+        "Praha": "https://www.foreca.cz/Czech-Republic/Hlavn%C3%AD-m%C4%9Bsto-Praha/Prague",
+        "Modrany": "https://www.foreca.cz/Czech-Republic/Hlavn%C3%AD-m%C4%9Bsto-Praha/Mod%C5%99any",
+        "Liben": "https://www.foreca.cz/Czech-Republic/Hlavn%C3%AD-m%C4%9Bsto-Praha/Libe%C5%88",
+        "Cerny_Most": "https://www.foreca.cz/Czech-Republic/Hlavn%C3%AD-m%C4%9Bsto-Praha/%C4%8Cern%C3%BD-Most",
+        "Branik": "https://www.foreca.cz/Czech-Republic/Hlavn%C3%AD-m%C4%9Bsto-Praha/Bran%C3%ADk",
+        "Letnany": "https://www.foreca.cz/Czech-Republic/Hlavn%C3%AD-m%C4%9Bsto-Praha/Let%C5%88any"
+    },
+    "South Bohemian region": {
+        "Ceske_Budejovice": "https://www.foreca.cz/Czech-Republic/Jiho%C4%8Desk%C3%BD-kraj/%C4%8Cesk%C3%A9-Bud%C4%9Bjovice",
+        "Tabor": "https://www.foreca.cz/Czech-Republic/Jiho%C4%8Desk%C3%BD-kraj/T%C3%A1bor",
+        "Pisek": "https://www.foreca.cz/Czech-Republic/Jiho%C4%8Desk%C3%BD-kraj/P%C3%ADsek",
+        "Strakonice": "https://www.foreca.cz/Czech-Republic/Jiho%C4%8Desk%C3%BD-kraj/Strakonice",
+        "Jindrichuv_Hradec": "https://www.foreca.cz/Czech-Republic/Jiho%C4%8Desk%C3%BD-kraj/Jind%C5%99ich%C5%AFv-Hradec",
+        "Cesky_Krumlov": "https://www.foreca.cz/Czech-Republic/Jiho%C4%8Desk%C3%BD-kraj/%C4%8Cesk%C3%BD-Krumlov"
+    },
+    "Usti region": {
+        "Litomerice": "https://www.foreca.cz/Czech-Republic/%C3%9Asteck%C3%BD-kraj/Litom%C4%9B%C5%99ice",
+        "Usti_nad_Labem": "https://www.foreca.cz/Czech-Republic/%C3%9Asteck%C3%BD-kraj/%C3%9Ast%C3%AD-nad-Labem",
+        "Most": "https://www.foreca.cz/Czech-Republic/%C3%9Asteck%C3%BD-kraj/Most",
+        "Decin": "https://www.foreca.cz/Czech-Republic/%C3%9Asteck%C3%BD-kraj/D%C4%9B%C4%8D%C3%ADn",
+        "Chomutov": "https://www.foreca.cz/Czech-Republic/%C3%9Asteck%C3%BD-kraj/Chomutov",
+        "Teplice": "https://www.foreca.cz/Czech-Republic/%C3%9Asteck%C3%BD-kraj/Teplice",
+        "Litvinov": "https://www.foreca.cz/Czech-Republic/%C3%9Asteck%C3%BD-kraj/Litv%C3%ADnov"
+    },
+    "Central Bohemian region": {
+        "Benesov": "https://www.foreca.cz/Czech-Republic/Central-Bohemia/Bene%C5%A1ov",
+        "Kladno": "https://www.foreca.cz/Czech-Republic/Central-Bohemia/Kladno",
+        "Mlada_Boleslav": "https://www.foreca.cz/Czech-Republic/Central-Bohemia/Mlad%C3%A1-Boleslav",
+        "Pribram": "https://www.foreca.cz/Czech-Republic/Central-Bohemia/P%C5%99%C3%ADbram",
+        "Kolin": "https://www.foreca.cz/Czech-Republic/Central-Bohemia/Kol%C3%ADn",
+        "Kutna_Hora": "https://www.foreca.cz/Czech-Republic/Central-Bohemia/Kutn%C3%A1-Hora",
+        "Melnik": "https://www.foreca.cz/Czech-Republic/Central-Bohemia/M%C4%9Bln%C3%ADk"
+    },
+    "Brno region": {
+        "Brno": "https://www.foreca.cz/Czech-Republic/South-Moravian/Brno",
+        "Znojmo": "https://www.foreca.cz/Czech-Republic/South-Moravian/Znojmo",
+        "Hodonin": "https://www.foreca.cz/Czech-Republic/South-Moravian/Hodon%C3%ADn",
+        "Breclav": "https://www.foreca.cz/Czech-Republic/South-Moravian/B%C5%99eclav",
+        "Vyskov": "https://www.foreca.cz/Czech-Republic/South-Moravian/Vy%C5%A1kov",
+        "Blansko": "https://www.foreca.cz/Czech-Republic/South-Moravian/Blansko"
+    },
+    "Pilsen region": {
+        "Plzen": "https://www.foreca.cz/Czech-Republic/Plze%C5%88sk%C3%BD-kraj/Plze%C5%88",
+        "Klatovy": "https://www.foreca.cz/Czech-Republic/Plze%C5%88sk%C3%BD-kraj/Klatovy",
+        "Rokycany": "https://www.foreca.cz/Czech-Republic/Plze%C5%88sk%C3%BD-kraj/Rokycany",
+        "Domazlice": "https://www.foreca.cz/Czech-Republic/Plze%C5%88sk%C3%BD-kraj/Doma%C5%BElice",
+        "Tachov": "https://www.foreca.cz/Czech-Republic/Plze%C5%88sk%C3%BD-kraj/Tachov",
+        "Susice": "https://www.foreca.cz/Czech-Republic/Plze%C5%88sk%C3%BD-kraj/Su%C5%A1ice"
+    },
+    "Karlovy Vary Region": {
+        "Karlovy_Vary": "https://www.foreca.cz/Czech-Republic/Karlovarsk%C3%BD-kraj/Karlovy-Vary",
+        "Cheb": "https://www.foreca.cz/Czech-Republic/Karlovarsk%C3%BD-kraj/Cheb",
+        "Sokolov": "https://www.foreca.cz/Czech-Republic/Karlovarsk%C3%BD-kraj/Sokolov",
+        "Ostrov": "https://www.foreca.cz/Czech-Republic/Karlovarsk%C3%BD-kraj/Ostrov",
+        "Chodov": "https://www.foreca.cz/Czech-Republic/Karlovarsk%C3%BD-kraj/Chodov",
+        "Marianske_Lazne": "https://www.foreca.cz/Czech-Republic/Karlovarsk%C3%BD-kraj/Mari%C3%A1nsk%C3%A9-L%C3%A1zn%C4%9B"
+    },
+    "Vysocina region": {
+        "Vysocina": "https://www.foreca.cz/Czech-Republic/Kraj-Vyso%C4%8Dina/Vyso%C4%8Dina",
+        "Jihlava": "https://www.foreca.cz/Czech-Republic/Kraj-Vyso%C4%8Dina/Jihlava",
+        "Trebic": "https://www.foreca.cz/Czech-Republic/Kraj-Vyso%C4%8Dina/T%C5%99eb%C3%AD%C4%8D",
+        "Havlickuv_Brod": "https://www.foreca.cz/Czech-Republic/Kraj-Vyso%C4%8Dina/Havl%C3%AD%C4%8Dk%C5%AFv-Brod",
+        "Zdar_nad_Sazavou": "https://www.foreca.cz/Czech-Republic/Kraj-Vyso%C4%8Dina/%C5%BD%C4%8F%C3%A1r-nad-S%C3%A1zavou",
+        "Zdar_nad_Sazavou_II": "https://www.foreca.cz/Czech-Republic/Kraj-Vyso%C4%8Dina/%C5%BD%C4%8F%C3%A1r-nad-S%C3%A1zavou-II",
+        "Pelhrimov": "https://www.foreca.cz/Czech-Republic/Kraj-Vyso%C4%8Dina/Pelh%C5%99imov"
+    },
+    "Liberec region": {
+        "Liberec": "https://www.foreca.cz/Czech-Republic/Libereck%C3%BD-kraj/Liberec",
+        "Jablonec_nad_Nisou": "https://www.foreca.cz/Czech-Republic/Libereck%C3%BD-kraj/Jablonec-nad-Nisou",
+        "Ceska_Lipa": "https://www.foreca.cz/Czech-Republic/Libereck%C3%BD-kraj/%C4%8Cesk%C3%A1-L%C3%ADpa",
+        "Turnov": "https://www.foreca.cz/Czech-Republic/Libereck%C3%BD-kraj/Turnov",
+        "Semily": "https://www.foreca.cz/Czech-Republic/Libereck%C3%BD-kraj/Semily",
+        "Frydlant": "https://www.foreca.cz/Czech-Republic/Libereck%C3%BD-kraj/Fr%C3%BDdlant"
+    },
+    "Hradec Kralove region": {
+        "Hradec_Kralove": "https://www.foreca.cz/Czech-Republic/Kr%C3%A1lov%C3%A9hradeck%C3%BD-kraj/Hradec-Kr%C3%A1lov%C3%A9",
+        "Trutnov": "https://www.foreca.cz/Czech-Republic/Kr%C3%A1lov%C3%A9hradeck%C3%BD-kraj/Trutnov",
+        "Nachod": "https://www.foreca.cz/Czech-Republic/Kr%C3%A1lov%C3%A9hradeck%C3%BD-kraj/N%C3%A1chod",
+        "Jicin": "https://www.foreca.cz/Czech-Republic/Kr%C3%A1lov%C3%A9hradeck%C3%BD-kraj/Ji%C4%8D%C3%ADn",
+        "Dvur_Kralove_nad_Labem": "https://www.foreca.cz/Czech-Republic/Kr%C3%A1lov%C3%A9hradeck%C3%BD-kraj/Dv%C5%AFr-Kr%C3%A1lov%C3%A9-nad-Labem",
+        "Vrchlabi": "https://www.foreca.cz/Czech-Republic/Kr%C3%A1lov%C3%A9hradeck%C3%BD-kraj/Vrchlab%C3%AD"
+    },
+    "Pardubice region": {
+        "Pardubice": "https://www.foreca.cz/Czech-Republic/Pardubick%C3%BD-kraj/Pardubice",
+        "Chrudim": "https://www.foreca.cz/Czech-Republic/Pardubick%C3%BD-kraj/Chrudim",
+        "Svitavy": "https://www.foreca.cz/Czech-Republic/Pardubick%C3%BD-kraj/Svitavy",
+        "Ceska_Trebova": "https://www.foreca.cz/Czech-Republic/Pardubick%C3%BD-kraj/%C4%8Cesk%C3%A1-T%C5%99ebov%C3%A1",
+        "Usti_nad_Orlici": "https://www.foreca.cz/Czech-Republic/Pardubick%C3%BD-kraj/%C3%9Ast%C3%AD-nad-Orlic%C3%AD",
+        "Vysoke_Myto": "https://www.foreca.cz/Czech-Republic/Pardubick%C3%BD-kraj/Vysok%C3%A9-M%C3%BDto"
+    },
+    "Olomouc region": {
+        "Olomouc": "https://www.foreca.cz/Czech-Republic/Olomouck%C3%BD-kraj/Olomouc",
+        "Prostejov": "https://www.foreca.cz/Czech-Republic/Olomouck%C3%BD-kraj/Prost%C4%9Bjov",
+        "Prerov": "https://www.foreca.cz/Czech-Republic/Olomouck%C3%BD-kraj/P%C5%99erov",
+        "Sumperk": "https://www.foreca.cz/Czech-Republic/Olomouck%C3%BD-kraj/%C5%A0umperk",
+        "Hranice": "https://www.foreca.cz/Czech-Republic/Olomouck%C3%BD-kraj/Hranice",
+        "Zabreh": "https://www.foreca.cz/Czech-Republic/Olomouck%C3%BD-kraj/Z%C3%A1b%C5%99eh"
+    },
+    "Zlin region": {
+        "Zlin": "https://www.foreca.cz/Czech-Republic/Zl%C3%ADn-Region/Zl%C3%ADn",
+        "Kromeriz": "https://www.foreca.cz/Czech-Republic/Zl%C3%ADn-Region/Krom%C4%9B%C5%99%C3%AD%C5%BE",
+        "Vsetin": "https://www.foreca.cz/Czech-Republic/Zl%C3%ADn-Region/Vset%C3%ADn",
+        "Valaske_Mesirici": "https://www.foreca.cz/Czech-Republic/Zl%C3%ADn-Region/Vala%C5%A1sk%C3%A9-Mezi%C5%99%C3%AD%C4%8D%C3%AD",
+        "Uherske_Hradiste": "https://www.foreca.cz/Czech-Republic/Zl%C3%ADn-Region/Uhersk%C3%A9-Hradi%C5%A1t%C4%9B",
+        "Otrokovice": "https://www.foreca.cz/Czech-Republic/Zl%C3%ADn-Region/Otrokovice"
+    },
+    "Moravian-Silesian region": {
+        "Ostrava": "https://www.foreca.cz/Czech-Republic/Moravskoslezsk%C3%BD-kraj/Ostrava",
+        "Havirov": "https://www.foreca.cz/Czech-Republic/Moravskoslezsk%C3%BD-kraj/Hav%C3%AD%C5%99ov",
+        "Karvina": "https://www.foreca.cz/Czech-Republic/Moravskoslezsk%C3%BD-kraj/Karvin%C3%A1",
+        "Opava": "https://www.foreca.cz/Czech-Republic/Moravskoslezsk%C3%BD-kraj/Opava",
+        "Frydek_Mistek": "https://www.foreca.cz/Czech-Republic/Moravskoslezsk%C3%BD-kraj/Fr%C3%BDdek--M%C3%ADstek",
+        "Trinec": "https://www.foreca.cz/Czech-Republic/Moravskoslezsk%C3%BD-kraj/T%C5%99inec"
+    }
+}
